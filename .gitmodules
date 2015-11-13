@@ -1,0 +1,3 @@
+[submodule "libconnman-qt"]
+	path = libconnman-qt
+	url = https://git.merproject.org/mer-core/libconnman-qt.git
