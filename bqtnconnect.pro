@@ -1,4 +1,6 @@
 TEMPLATE = subdirs
 
 SUBDIRS += libconnman-qt/connman-qt.pro \
-    libbqtnconnect
+    libbqtnconnect \
+    plugin \
+    examples
